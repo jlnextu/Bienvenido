@@ -1,7 +1,0 @@
-linea de codigo uno
-linea de codigo dos
-linea de codigo tres
-cuatro
-cinco
-se actualizo linea desde la pagina de GitHub
-!!! gracias.
